@@ -5,3 +5,10 @@ function dynamicallyLoadScript(url) {
 }
 
 dynamicallyLoadScript("//static.criteo.net/js/ld/ld.js");
+
+job_reference={dice_job_reference}
+user_ip={user_ip}
+user_agent={user_agent}
+timestamp={timestamp}
+id={id}
+cc_click_id={cc_click_id}
